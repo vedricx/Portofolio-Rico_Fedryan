@@ -596,11 +596,6 @@ export default function Home() {
               <strong>ricofedryan14@gmail.com</strong>
               <ArrowIcon />
             </a>
-            <div className="contact-secondary">
-              <a href="tel:+6285156349459">
-                <span>Phone</span>
-                <strong>085156349459</strong>
-              </a>
               <a
                 href="https://linkedin.com/in/ricofedryan14"
                 target="_blank"
